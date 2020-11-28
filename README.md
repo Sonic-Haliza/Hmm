@@ -15,7 +15,7 @@ A Lightweight WhatApp Bot Without Headless Browser
 
 # Termux
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
+> git clone https://github.com/Sonic-Haliza/Hmm
 > cd termux-whatsapp-bot
 > bash install.sh
 
@@ -23,7 +23,7 @@ A Lightweight WhatApp Bot Without Headless Browser
 
 # Linux ( debian & ubuntu )
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
+> git clone https://github.com/Sonic-Haliza/Hmm
 > cd termux-whatsapp-bot
 > bash install.sh
 
